@@ -1,17 +1,19 @@
 body {
-	background: url('../img/bg.gif') center center/cover no-repeat; 
+	background: url('../img/bg.png') center center/cover no-repeat; 
 	margin: 100px;
 }
 div {
-    text-align: center;
+	text-align: center;
 	color: white;
 	font-size: 50px;
 }
 @font-face {
 	font-family: "slkscr";
 	src: url("../fonts/slkscr.ttf")format("truetype"); 
-	font-style: normal; font-weight: normal;
+	font-style: normal;
+	font-weight: normal;
 }
 h1 {
 	font-family: "slkscr";
 }
+    
