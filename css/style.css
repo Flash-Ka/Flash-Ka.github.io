@@ -1,6 +1,6 @@
 body {
-	background: url('../img/bg.png') center center/cover no-repeat; 
-	margin: 100px;
+    background: url('../img/bg.png') center center/cover no-repeat;
+    margin: 16px;
 }
 div {
 	text-align: center;
